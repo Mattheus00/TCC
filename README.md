@@ -48,14 +48,18 @@ Matheus não atuou diretamente em grupos formais de pesquisa científica durante
 Do mesmo modo, as atividades complementares desempenharam papel de ampliação do repertório acadêmico e profissional, permitindo que o aluno relacionasse sua formação às demandas da sociedade contemporânea.  
 
 ---
+  
 
-## Perspectivas Futuras  
+## Perspectivas Futuras
 
-Com a conclusão da graduação em Engenharia de Software, Matheus Pereira vislumbra sua atuação profissional na área de desenvolvimento e engenharia de sistemas, com foco em **engenharia de software aplicada ao desenvolvimento de soluções corporativas**.  
+Com a conclusão da graduação em Engenharia de Software, Matheus Pereira projeta sua carreira profissional na área de **desenvolvimento e engenharia de sistemas**, com ênfase na aplicação de práticas de engenharia de software para criação de soluções corporativas eficientes e inovadoras.  
 
-Para alcançar esse objetivo, tem se dedicado a consolidar suas habilidades técnicas em linguagens de programação, modelagem de software, engenharia de requisitos e gestão de projetos. Pretende também ampliar seus conhecimentos por meio de especializações e cursos de aperfeiçoamento, visando sua inserção e consolidação no mercado de tecnologia.  
+Para atingir esse objetivo, tem se dedicado a consolidar suas competências em **linguagens de programação, modelagem de software, engenharia de requisitos e gestão de projetos**, além de planejar a ampliação de seus conhecimentos por meio de especializações e cursos de aperfeiçoamento contínuo. Seu foco é construir uma base sólida que permita contribuir de maneira relevante em equipes técnicas e projetos desafiadores.  
 
-Em médio prazo, almeja contribuir em equipes de desenvolvimento de sistemas de maior complexidade, integrando conceitos de qualidade, testes e evolução de software, adquiridos ao longo de sua formação acadêmica. Em longo prazo, considera a possibilidade de atuar como líder técnico ou gestor de projetos de engenharia de software, unindo sua base acadêmica com experiências futuras no mercado.  
+Matheus também demonstra grande interesse em se mudar para **São Paulo**, buscando acesso a um mercado de tecnologia mais dinâmico, maior interação com empresas de referência nacional e internacional, e oportunidades de participar de projetos de maior impacto e complexidade.  
+
+Em médio prazo, pretende integrar equipes de desenvolvimento de sistemas robustos, aplicando conceitos de **qualidade de software, testes e evolução de sistemas**, adquiridos ao longo de sua formação acadêmica e experiências práticas. A longo prazo, visualiza a possibilidade de atuar como **líder técnico ou gestor de projetos**, unindo sua sólida formação acadêmica à vivência em projetos estratégicos, contribuindo tanto na execução quanto na tomada de decisões estratégicas no campo da engenharia de software.
+  
 
 ---
 
