@@ -7,9 +7,10 @@
 
 ## Contexto de Ingresso e Experiências Prévias  
 
-Matheus Pereira concluiu o Ensino Médio em 2020 na cidade de Conceição do Mato Dentro, interior de Minas Gerais. Desde esse período, já demonstrava forte interesse pela área de computação, o que o motivou a buscar, em 2022, sua formação superior na Pontifícia Universidade Católica de Minas Gerais (PUC Minas), no curso de Engenharia de Software, ingressando por meio de vestibular.
+Matheus Pereira concluiu o Ensino Médio em 2020 na cidade de **Conceição do Mato Dentro**, interior de Minas Gerais. Desde esse período, já demonstrava forte interesse pela área de **computação**, o que o motivou a buscar, em 2022, sua formação superior na **Pontifícia Universidade Católica de Minas Gerais (PUC Minas)**, no curso de **Engenharia de Software**, ingressando por meio de vestibular.  
 
 Apesar de sua experiência prática anterior ser limitada a um contato inicial com tecnologias computacionais, esse interesse genuíno pela área foi fundamental para sua adaptação e progresso acadêmico. A curiosidade em compreender sistemas, algoritmos e aplicações concretas da computação representou um ponto de partida importante para seu percurso no curso.
+
 ---
 
 ## Desempenho Acadêmico  
