@@ -7,15 +7,14 @@
 
 ## Contexto de Ingresso e Experiências Prévias  
 
-Matheus Pereira concluiu o Ensino Médio no ano de 2020. Desde esse período já demonstrava forte interesse pela área de computação, o que o motivou a buscar, em 2022, sua formação superior na Pontifícia Universidade Católica de Minas Gerais (PUC Minas), no curso de Engenharia de Software, por meio de ingresso via vestibular.  
+Matheus Pereira concluiu o Ensino Médio em 2020 na cidade de Conceição do Mato Dentro, interior de Minas Gerais. Desde esse período, já demonstrava forte interesse pela área de computação, o que o motivou a buscar, em 2022, sua formação superior na Pontifícia Universidade Católica de Minas Gerais (PUC Minas), no curso de Engenharia de Software, ingressando por meio de vestibular.
 
-Ainda que sua experiência prática anterior fosse restrita a um contato inicial com tecnologias computacionais, esse interesse genuíno na área foi fundamental para sua adaptação e progresso acadêmico. A curiosidade em compreender sistemas, algoritmos e aplicações concretas da computação representou um ponto de partida importante para seu percurso no curso.  
-
+Apesar de sua experiência prática anterior ser limitada a um contato inicial com tecnologias computacionais, esse interesse genuíno pela área foi fundamental para sua adaptação e progresso acadêmico. A curiosidade em compreender sistemas, algoritmos e aplicações concretas da computação representou um ponto de partida importante para seu percurso no curso.
 ---
 
 ## Desempenho Acadêmico  
 
-Ao longo do curso de Engenharia de Software, Matheus demonstrou desempenho satisfatório, com destaque em disciplinas técnicas que exigiam raciocínio lógico, capacidade analítica e prática de programação. Teve bom aproveitamento em áreas como **Desenvolvimento de Interfaces Web**, **Projeto de Software**, **Arquitetura de Software**, **Gerência de Projetos de Software** e **Tecnologias da Informação e do Conhecimento**, apresentando notas que refletiram empenho e domínio dos conteúdos.  
+Ao longo do curso de Engenharia de Software, Matheus demonstrou desempenho satisfatório, com destaque em disciplinas técnicas que exigiam raciocínio lógico, capacidade analítica e prática de programação. Teve bom aproveitamento em áreas como **Desenvolvimento de Interfaces Web**, **Projeto de Software**, **Arquitetura de Software**, **Gerência de Projetos de Software** e **Tecnologias da Informação e do Conhecimento**, sendo as disciplinas que ele apresentava mais interesse,apresentando notas que refletiram empenho e domínio dos conteúdos.  
 
 As disciplinas de base, como **Algoritmos e Estruturas de Dados I e II**, além de **Programação Modular**, foram fundamentais para a construção do conhecimento técnico que sustentou as etapas seguintes da formação. Ao mesmo tempo, disciplinas de caráter mais abstrato, como **Engenharia Econômica para Software** e **Engenharia de Requisitos**, trouxeram novos desafios, mas representaram oportunidades de crescimento acadêmico.  
 
